@@ -1,6 +1,8 @@
 How to access the assignment
-url: https://favored1.jfrog.io
+url: https://favored1.jfrog.io 
+
 username: user
+
 password: Devops2022$
 
 ## Sources Used
